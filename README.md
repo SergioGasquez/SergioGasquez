@@ -11,6 +11,6 @@ Don’t hesitate to contact me!
 - 🖥️ Embedded Software - Firmware 
 - 📡 Telecommunications Engineering 
 - 🤖 Robotics 
-- ⌨️ Modern C++
 - ⚡️ IoT 
 - 🔌 Electronics 
+- ⌨️ Modern C++, C, Rust
