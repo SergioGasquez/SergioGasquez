@@ -26,16 +26,19 @@ If you wanna know more about me, here is my [personal wiki](https://sergiogasque
 
 
 ## Interests
-<table><tr><td valign="top" width="50%">
-
 - 🦀 Rust
+
+
 - 🖥️ Embedded Software - Firmware
+
+
 - 🤖 Robotics
+
+
 - ⚡️ IoT
+
+
 - 🔌 Electronics
-
-</td><td valign="top" width="50%">
-
 
 </td></tr></table>
 
@@ -62,29 +65,16 @@ If you wanna know more about me, here is my [personal wiki](https://sergiogasque
 
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SergioGasquez&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
 
-
-</td></tr></table>
-
 <br/>
 
-
-
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=SergioGasquez&&style=flat-square)
-
-
-<br/>
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=SergioGasquez&&style=flat-square)
